@@ -52,5 +52,5 @@ It helps users explore trends, identify key customers, and measure growth across
 
 ## 🧠 Author  
 **Suresh Reddy**  
-📬 Connect on [LinkedIn](https://www.linkedin.com/in/mallidi-sai-suresh-reddy/) | 🌐 [Tableau Public Profile]([https://public.tableau.com/app/profile/sai.suresh.reddy.mallidi7672/vizzes])
+📬 Connect on [LinkedIn](https://www.linkedin.com/in/mallidi-sai-suresh-reddy/) | 🌐 [Tableau Public Profile](https://public.tableau.com/app/profile/sai.suresh.reddy.mallidi7672/vizzes)
 
